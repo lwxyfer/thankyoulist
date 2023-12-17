@@ -1,0 +1,44 @@
+[
+  {
+    "name": "lazy_static",
+    "version": "1.4.0",
+    "description": "A macro for declaring lazily evaluated statics in Rust.",
+    "url": "",
+    "license": ""
+  },
+  {
+    "name": "reqwest",
+    "version": "0.11",
+    "description": "higher level HTTP client library",
+    "url": "",
+    "license": ""
+  },
+  {
+    "name": "serde",
+    "version": "1.0",
+    "description": "A generic serialization/deserialization framework",
+    "url": "https://serde.rs",
+    "license": ""
+  },
+  {
+    "name": "serde_derive",
+    "version": "1.0",
+    "description": "Macros 1.1 implementation of #[derive(Serialize, Deserialize)]",
+    "url": "https://serde.rs",
+    "license": ""
+  },
+  {
+    "name": "serde_json",
+    "version": "1.0",
+    "description": "A JSON serialization file format",
+    "url": "",
+    "license": ""
+  },
+  {
+    "name": "toml",
+    "version": "0.5",
+    "description": "A native Rust encoder and decoder of TOML-formatted files and streams. Provides\nimplementations of the standard Serialize/Deserialize traits for TOML data to\nfacilitate deserializing and serializing Rust structures.\n",
+    "url": "https://github.com/toml-rs/toml",
+    "license": ""
+  }
+]
